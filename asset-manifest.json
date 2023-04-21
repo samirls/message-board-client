@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.bca6583a.css",
-    "main.js": "/static/js/main.4c39320b.js",
-    "static/js/787.118e76e5.chunk.js": "/static/js/787.118e76e5.chunk.js",
-    "index.html": "/index.html",
-    "main.bca6583a.css.map": "/static/css/main.bca6583a.css.map",
-    "main.4c39320b.js.map": "/static/js/main.4c39320b.js.map",
-    "787.118e76e5.chunk.js.map": "/static/js/787.118e76e5.chunk.js.map"
+    "main.css": "/message-board-client/static/css/main.bca6583a.css",
+    "main.js": "/message-board-client/static/js/main.0bd9e12a.js",
+    "static/js/787.118e76e5.chunk.js": "/message-board-client/static/js/787.118e76e5.chunk.js",
+    "index.html": "/message-board-client/index.html",
+    "main.bca6583a.css.map": "/message-board-client/static/css/main.bca6583a.css.map",
+    "main.0bd9e12a.js.map": "/message-board-client/static/js/main.0bd9e12a.js.map",
+    "787.118e76e5.chunk.js.map": "/message-board-client/static/js/787.118e76e5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bca6583a.css",
-    "static/js/main.4c39320b.js"
+    "static/js/main.0bd9e12a.js"
   ]
 }

@@ -1,5 +1,6 @@
 {
   "name": "message-board-client",
+  "homepage": "https://samirls.github.io/message-board-client",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

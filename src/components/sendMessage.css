@@ -1,0 +1,72 @@
+.homeInputContainer{
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: column;
+  align-items: center;
+
+  padding-top: 10px;
+  height: 140px;
+
+}
+
+.messageInput{
+  border: none;
+  border-radius: 50px;
+  height: 30px;
+  width: 50%;
+  font-size: 1.2rem;
+  padding-left: 20px;
+  font-family: 'Patrick Hand', cursive;
+}
+.authorInput{
+  border: none;
+  border-radius: 50px;
+  height: 30px;
+  width: 50%;
+  font-size: 1.2rem;
+  padding-left: 20px;
+  font-family: 'Patrick Hand', cursive;
+}
+.formSend{
+  border-radius: 50%;
+  border: 3px solid #d894ff;
+  background-color: #C3ACD0;
+  cursor: pointer;
+  padding: 8px;
+  font-family: 'Dongle', sans-serif;
+  font-size: 1.3rem;
+}
+.formSend:hover{
+  background-color: #b171d6;
+}
+.formSend:active{
+  background-color: #9b1ce4;
+}
+
+/*=============== MEDIA QUERIES FOR SMARTPHONES ============== */
+@media screen and (max-width: 600px){
+  .homeInputContainer{
+    padding-top: 5px;
+    height: 110px;
+  }
+  .messageInput{
+    height: 25px;
+    width: 65%;
+    font-size: 1rem;
+    padding-left: 10px;
+  }
+  .authorInput{
+    height: 25px;
+    width: 65%;
+    font-size: 1rem;
+    padding-left: 10px;
+  }
+  .formSend{
+    font-size: 1rem;
+    padding: 6px;
+  }
+}
+
+/* font-family: 'Dongle', sans-serif;
+font-family: 'Patrick Hand', cursive;
+font-family: 'Press Start 2P', cursive; */

@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Dongle:wght@700&family=Patrick+Hand&family=Press+Start+2P&display=swap');
+
+/* font-family: 'Dongle', sans-serif;
+font-family: 'Patrick Hand', cursive;
+font-family: 'Press Start 2P', cursive; */
+
+
+
+*{
+  box-sizing: border-box;
+  margin: 0;
+}

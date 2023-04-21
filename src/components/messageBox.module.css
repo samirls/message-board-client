@@ -1,0 +1,48 @@
+.container{
+
+  border-radius: 50px;
+  background-color: rgba(173, 101, 255, 0.055);
+  padding: 15px;
+
+  margin-top: 5px;
+  margin-bottom: 5px;
+  line-height: 1.1;
+}
+
+.author{
+  font-size: 1.8rem;
+  font-weight: bold;
+  color: #674188;
+  font-family: 'Dongle', sans-serif;
+}
+.author span{
+  font-size: 1.3rem;
+  color: #ae77ce;
+}
+.message{
+  color: #613805;
+  font-family: 'Dongle', sans-serif;
+  font-size: 1.6rem;
+}
+
+/*=============== MEDIA QUERIES FOR SMARTPHONES ============== */
+@media screen and (max-width: 600px){
+  .container{
+    padding: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+  .author{
+    font-size: 1.6rem;
+    font-weight: bold;
+    padding-left: 6px;
+  }
+  .author span{
+    font-size: 1.1rem;
+    color: #ae77ce;
+  }
+  .message{
+    font-size: 1.4rem;
+    padding-left: 6px;
+  }
+}
